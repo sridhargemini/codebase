@@ -1,1 +1,1 @@
-console.log("Application Api is working fine!");
+console.log("Application Api is working fine.");
